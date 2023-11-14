@@ -71,3 +71,22 @@ body {
 .p4-4{
    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.carousel-control-prev-icon, .carousel-control-next-icon {
+   height: 100px;
+   width: 100px;
+   outline: black;
+   background-color: black;
+   background-size: 100%, 100%;
+   border-radius: 50%;
+   border: 1px solid black;
+}
+.abt2{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: large;
+}
+.shane{
+   width: 35rem;
+ 
+   border-radius: 50%;
+   
+}
