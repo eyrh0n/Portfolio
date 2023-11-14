@@ -85,6 +85,15 @@ body {
    font-size: large;
 }
 .shane{
-   width: 35rem;
+   width: 25rem;
+   height: 25rem;
    border-radius: 50%;
+}
+.ogol2{
+   width: 5rem;
+   height: 5rem;
+}
+.quote{
+   font-size: large;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
