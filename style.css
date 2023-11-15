@@ -2,20 +2,20 @@ body {
    background-color: D2E3C8;
 }
 .mike{
-   width: 50rem;
+   width: 45rem;
    height: auto;
 }
 .richard{
-   width: 50rem;
+   width: 45rem;
    height: auto;
 }
 .jermin{
-   width: 50rem;
+   width: 45rem;
    height: auto;
 
 }
 .jerico{
-   width: 50rem;
+   width: 45rem;
    height: auto;
 }
 .txt1{
@@ -80,14 +80,18 @@ body {
    border-radius: 50%;
    border: 1px solid black;
 }
+
 .abt2{
    font-family: Georgia, 'Times New Roman', Times, serif;
    font-size: large;
 }
 .shane{
-   width: 25rem;
-   height: 25rem;
-   border-radius: 50%;
+   width: 20rem;
+   height: 20rem;
+   border-radius: 50px;
+background: #86A789;
+box-shadow:  20px -20px 40px #728e74,
+             -20px 20px 40px #9ac09e;
 }
 .ogol2{
    width: 5rem;
