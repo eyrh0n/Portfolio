@@ -97,10 +97,6 @@ body {
 .shane{
    width: 20rem;
    height: 20rem;
-   border-radius: 50px;
-background: #86A789;
-box-shadow:  20px -20px 40px #728e74,
-             -20px 20px 40px #9ac09e;
 }
 .ogol2{
    width: 5rem;
@@ -111,7 +107,7 @@ box-shadow:  20px -20px 40px #728e74,
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 @media (max-width: 768px){
-   #services{
+   #special{
       text-align: center;   
    }
 }
