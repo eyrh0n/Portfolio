@@ -37,13 +37,48 @@
    transform: scale(1.1); 
  }
 
- @media (max-width: 1020px){
-    #Work .row .col-12{
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
+ @media (max-width: 390px){
+   #footer .cont{
+    text-align: center;
+   }
+   
+}
 
-    #certificates{
-        text-align: center;
-    }
- }
+@media (max-width: 768px){
+   .cert1{
+      margin-left: 7rem;
+   }
+   .cert3{
+      margin-left: 7rem;
+   }
+   
+}
+
+@media (max-width: 820px){
+   .cert1{
+      margin-left: 7rem;
+   }
+   .cert2{
+      margin-left: 7rem;
+   }
+   .cert3{
+      margin-left: 7rem;
+   }
+   .cert4{
+      margin-left: 7rem;
+   }
+}
+@media (max-width: 1024px){
+   .cert1{
+      margin-left: 14rem;
+   }
+   .cert2{
+      margin-left: 14rem;
+   }
+   .cert3{
+      margin-left: 14rem;
+   }
+   .cert4{
+      margin-left: 14rem;
+   }
+}
