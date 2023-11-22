@@ -115,16 +115,8 @@
    transform: scale(0.9);
    fill: #333333;
  }
- 
 
-@media(max-width: 768px){
-   .abby2{
-      margin-left: 2rem;
-   }
-   .abby4{
-      margin-left: 2rem;
-   }
-}
+
 
 @media (min-width: 820px){
    #services .col-md-12 .col-sm-12{
