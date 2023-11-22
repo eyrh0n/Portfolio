@@ -117,7 +117,10 @@
  }
 
 
-
+ .collapse{
+  padding-left: 6rem;
+ }
+ 
 @media (min-width: 820px){
    #services .col-md-12 .col-sm-12{
       width: 100%;
@@ -128,6 +131,7 @@
    .navbar{
       text-align: center;
    }
+  
 }
 
 .home::before{
