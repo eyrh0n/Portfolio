@@ -26,7 +26,7 @@ body {
    height: 3rem;
    
 }
-.hm{
+.home{
    font-family:Arial, Helvetica, sans-serif
 }
 .port{
@@ -71,16 +71,7 @@ body {
 .p4-4{
    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.carousel-control-prev-icon{
-   height: 100px;
-   width: 100px;
-   outline: black;
-   background-color: black;
-   background-size: 100%, 100%;
-   border-radius: 50%;
-   border: 1px solid black;
 
-}
 
 .abt2{
    font-family: Georgia, 'Times New Roman', Times, serif;
@@ -96,12 +87,24 @@ body {
 }
 
 
-
-@media (max-width: 768px){
-   #certificates{
-      text-align: center;
-   }
+.dl:hover{
+   background-color: #fff;
+  color: black;
+  border: 2px solid black;
+  box-shadow: 5px 5px 0px black;
 }
+.dl:active{
+   background-color: black;
+   box-shadow: none;
+   transform: translateY(4px);
+}
+
+.navbar a{
+   float: right;
+}
+
+
+
 
 
 
